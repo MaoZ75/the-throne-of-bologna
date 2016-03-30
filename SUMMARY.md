@@ -1,5 +1,5 @@
 # Summary
 
-* [Introduction](README.md)
+* [Introduction](README.adoc)
 * [First Chapter](regole.adoc)
 
