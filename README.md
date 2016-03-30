@@ -1,3 +1,7 @@
-# My Awesome Book
+= Il trono di mortadella
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+
+== GIOCO DI DADI E STRATEGIA NELLA BOLOGNA MEDIEVALE
+
+Un favoloso gioco da tavolo per 2-7 giocatori, dai 10 anni in su.
+Durata media 20 minuti.
