@@ -1,3 +1,4 @@
+
 == CONDIZIONI DI VITTORIA
 
 Un giocatore vince quando si verificano le condizioni di vittoria durante il suo turno.
