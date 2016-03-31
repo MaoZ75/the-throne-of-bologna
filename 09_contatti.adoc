@@ -1,2 +1,24 @@
-= Contatti
+
+[quote]
+Il Trono di Mortadella ©2016 Cosplayou
+
+Ideazione, sviluppo, design, illustrazioni, packaging, logo e nome “Trono di Mortadella” sono tutti copyright o marchi registrati. Tutti i diritti riservati.
+
+Ideato da *Linus Games*. Progetto di Carlo Ferrari, sviluppo di Carlo Ferrari, Helios Pu e Diego Ruggeri. Si ringraziano i playtesters: Dolma Fronterrè, Marco Facchini, Rita Traversi, Maurizio Stagni.
+Si ringrazia inoltre l’Associazione culturale Felsina Factory per il supporto e la consulenza.
+
+.CONTATTI
+
+http://www.iltronodimortadella.com
+[cols="^1,^1,^1"]
+|===
+| image:imgs/cpu.png[] | image:imgs/lg.svg[] | image:imgs/ffc.svg[] 
+| http://www.cosplayou.com | http://www.linusgames.com |  http://www.felsinafactory.it
+|===
+
+
+
+
+
+
 
