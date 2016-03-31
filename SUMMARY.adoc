@@ -5,4 +5,5 @@
 . link:scopo_gioco.adoc[Scopo del Gioco]
 . link:03_segnalini.adoc[Segnalini]
 . link:04_struttura_delle_carte.adoc[Struttura delle Carte]
+. Svolgimento del gioco
 
