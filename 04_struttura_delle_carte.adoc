@@ -1,2 +1,32 @@
-= Struttura delle Carte
+== STRUTTURA DELLE CARTE
+
+
+|===
+| image:imgs/rettore.png[]  | Ogni carta è composta da: +
+
+- Illustrazione con Ruolo +
+- Condizioni di vittoria specifiche del Ruolo (Icone nella parte bassa)
+
+|===
+
+
+
+
+== RUOLI
+
+Principe dei Tortellini:: È dedito ai piaceri della carne (in tutti i sensi) e ha fatto completamente sua la frase: “di doman non c’è certezza...” Ha sudditi e possedimenti ma non se ne preoccupa minimamente, l’unica cosa che gli preme è poter fare i suoi cinque pasti al giorno in santa pace. O guerra.
+
+Magnifico Rettore:: Uomo di indiscusso rigore morale e sconfinata sapienza, ha rifiutato i beni voluttuari per dedicarsi ad arricchire ed espandere l’Università, dando benessere agli studenti, suoi futuri sudditi. Se l’è studiata proprio bene!
+
+Signore della Seta:: Attraverso una vita votata al lavoro è diventato il mercante più potente della città ed è l’unico a conoscere i segreti della produzione industriale della seta all’interno dei mulini disseminati lungo la fitta rete di canali.
+
+Capitano di Ventura:: È un condottiero che guida compagnie di spietati mercenari pronti a uccidere e farsi uccidere per il miglior offerente. Saccheggi e razzie sono il pane quotidiano di questi personaggi che ad una dimora fissa preferiscono l’avventura. Contenti loro...
+
+Il Cardinale:: In un’epoca di santi ed eremiti lui è invece un politico redentore di peccati non suoi. Rappresenta il potere terreno della Chiesa e non esita un secondo ad approfittare di ogni occasione per accumulare nuovi fedeli e ricchezze.
+
+Maestro dei Locandieri:: *(per partite da 3 giocatori in su)* - Trama nell’ombra, conosce i segreti di tutta la città e sa che potrà arrivare al potere solo sfruttando le sue conoscenze e ricattando i personaggi più illustri. La sua locanda ne ha viste davvero di tutti i colori!
+Ha una condizione di vittoria più complessa rispetto agli altri giocatori.
+
+Brigante:: *(solo per la partita a 7)* - Sembra sempre solo ma è al centro di una fitta rete di malviventi che lo informa e lo aiuta. Sembra il più cattivo ma non è peggiore degli altri, anzi, spesso è stato beccato mentre faceva beneficienza ai più poveri!
+È l’unico ruolo di cui si scopre l’identità al primo tiro di dado.
 
