@@ -7,7 +7,7 @@
 I Segnalini sono gettoni nei quali sono rappresentati i Simboli sotto descritti. All’inizio della partita si trovano tutti al centro del tavolo (riserva). Durante la partita i Segnalini potranno essere acquisiti dai giocatori per finire nel conto delle condizioni di vittoria, oppure scartati (o fatti scartare). In questo caso i Segnalini in questione torneranno nella riserva al centro del tavolo.
 
 .SIMBOLI (su dadi, carte e segnalini)
-[cols="1,1,5"]
+[cols="^1,1,5"]
 |===
 | image:imgs/paesano.png[] | Popolo | indica gli abitanti della città, come artigiani, commercianti e soldati 
 | image:imgs/torre.png[] | Torre | indica i possedimenti come case, palazzi, mulini, torri e castelli
