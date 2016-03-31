@@ -2,5 +2,5 @@
 
 . link:README.adoc[Panoramica]
 . link:iltrono_di_mortadella.adoc[Il trono di mortadella]
-. link:scopo_gioco.adoc[Scopo del GIoco]
+. link:scopo_gioco.adoc[Scopo del Gioco]
 
