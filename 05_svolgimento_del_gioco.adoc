@@ -1,3 +1,4 @@
+
 == SVOLGIMENTO DEL GIOCO
 
 La partita si svolge a turni singoli che procedono in senso orario. Per determinare chi inizia ciascun giocatore lancia i cinque dadi: chi totalizza la somma più alta di Mortadelle e Vino sarà il primo a giocare.
