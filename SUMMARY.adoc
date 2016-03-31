@@ -1,7 +1,5 @@
 = Summary
 
 . link:README.adoc[Introduction]
-. link:il_trono_di_mortadella.adoc[Il trono di mortadella]
-
-
+. link:iltrono_di_mortadella.adoc[Il trono di mortadella]
 
