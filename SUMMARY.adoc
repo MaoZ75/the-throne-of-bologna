@@ -4,5 +4,5 @@
 . link:01_introduzione.adoc[Introduzione]
 . link:scopo_gioco.adoc[Scopo del Gioco]
 . link:03_segnalini.adoc[Segnalini]
-. Struttura delle Carte
+. link:04_struttura_delle_carte.adoc[Struttura delle Carte]
 
