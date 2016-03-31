@@ -6,5 +6,5 @@
 . link:03_segnalini.adoc[Segnalini]
 . link:04_struttura_delle_carte.adoc[Struttura delle Carte]
 . link:05_svolgimento_del_gioco.adoc[Svolgimento del gioco]
-. Regole aggiuntive
+. link:06_regole_aggiuntive.adoc[Regole aggiuntive]
 
