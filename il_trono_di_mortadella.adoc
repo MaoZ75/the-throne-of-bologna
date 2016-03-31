@@ -31,10 +31,10 @@ I Segnalini sono gettoni nei quali sono rappresentati i Simboli sotto descritti.
 == STRUTTURA DELLE CARTE
 
 
-Ogni carta è composta da 
-
 |===
-| image:imgs/rettore.png[]  | - Illustrazione con Ruolo +
+| image:imgs/rettore.png[]  | Ogni carta è composta da +
++
+- Illustrazione con Ruolo +
 - Condizioni di vittoria specifiche del Ruolo (Icone nella parte bassa)
 |===
 
