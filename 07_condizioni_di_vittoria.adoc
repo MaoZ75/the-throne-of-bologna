@@ -1,4 +1,4 @@
-.CONDIZIONI DI VITTORIA
+== CONDIZIONI DI VITTORIA
 
 Un giocatore vince quando si verificano le condizioni di vittoria durante il suo turno.
 
@@ -20,7 +20,7 @@ Quando un numero è seguito da “+” significa che deve avere ALMENO quel nume
 Quando un numero è da solo senza segni matematici significa che il giocatore deve avere quell’ESATTO NUMERO di Segnalini perché si verifichino le condizioni di vittoria. Vale anche per lo 0.
 
  
-VARIANTI AL GIOCO BASE
+=== VARIANTI AL GIOCO BASE
 
 Variante per 6 giocatori::
 In una partita a 6 tutti i giocatori partono con 1 Segnalino Popolo e 1 Segnalino Mortadella.
