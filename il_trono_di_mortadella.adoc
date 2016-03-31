@@ -30,7 +30,7 @@ I Segnalini sono gettoni nei quali sono rappresentati i Simboli sotto descritti.
 
 == STRUTTURA DELLE CARTE
 
-
+[cols="1,2"]
 |===
 | image:imgs/rettore.png[]  | Ogni carta è composta da: +
 
