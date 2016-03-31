@@ -1,1 +1,9 @@
-{}
+{
+
+  "language": "it"
+  
+   "structure": {
+       "readme": "README.adoc"
+       "summary": "SUMMARY.adoc"
+   }  
+}
