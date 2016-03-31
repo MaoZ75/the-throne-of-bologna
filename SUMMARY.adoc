@@ -1,5 +1,7 @@
-# Summary
+= Summary
 
-* [Introduction](README.adoc)
-* [First Chapter](regole.adoc)
+. link:README.adoc[Introduction]
+. link:il_trono_di_mortadella.adoc[Il trono di mortadella]
+
+
 
