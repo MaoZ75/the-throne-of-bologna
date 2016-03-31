@@ -8,4 +8,5 @@
 . link:05_svolgimento_del_gioco.adoc[Svolgimento del gioco]
 . link:06_regole_aggiuntive.adoc[Regole aggiuntive]
 . link:07_condizioni_di_vittoria.adoc[Condizioni di vittoria]
+. Varialti al gioco base
 
