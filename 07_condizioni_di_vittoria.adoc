@@ -1,2 +1,61 @@
-= Condizioni di vittoria
+.CONDIZIONI DI VITTORIA
+
+Un giocatore vince quando si verificano le condizioni di vittoria durante il suo turno.
+
+.Obiettivi personaggi 
+[cols="2,1,1,1,1,9"]
+|===
+| | Popolo | Torre | Libro | Mortadella | Note
+| Principe dei Tortellini|2+|2+|2+|5+|-
+| Magnifico Rettore|4+|2+|5+|-|-
+| Signore della Seta|4+|6+|-|0|-
+| Capitano di Ventura|5+|-|0|4+|-
+| Cardinale Austero|2+|4+|4+|2+|-
+| Maestro dei Locandieri|2+|2|2+|2| Con la combinazione indicata, vince se indovina il ruolo di un giocatore avversario. Se sbaglia esce dal gioco
+| Brigante|0/8+*|-|0/8+*|0/8+*|Un simbolo almeno a quota 8 e gli altri due a 0
+|===
+
+Nota::
+Quando un numero è seguito da “+” significa che deve avere ALMENO quel numero di Segnalini. +
+Quando un numero è da solo senza segni matematici significa che il giocatore deve avere quell’ESATTO NUMERO di Segnalini perché si verifichino le condizioni di vittoria. Vale anche per lo 0.
+
+ 
+VARIANTI AL GIOCO BASE
+
+Variante per 6 giocatori::
+In una partita a 6 tutti i giocatori partono con 1 Segnalino Popolo e 1 Segnalino Mortadella.
+
+Variante per 7 giocatori::
+In una partita a 7 tutti i giocatori partono con 2 Segnalini Popolo e 1 Segnalino a loro scelta. Entra inoltre il ruolo speciale del Brigante, che gioca con la carta ruolo scoperta.
+
+Brigante::
+Il Brigante tira i dadi normalmente ma i simboli di Popolo, Torre, Libro e Mortadella anziché acquisirli dalla riserva al centro del tavolo li ruba agli altri giocatori. +
+Inoltre il Brigante non è soggetto alla limitazione dei 7 vizi capitali e non può essere il bersaglio del Maestro dei Locandieri. + 
+*Condizioni di vittoria*: Il Brigante vince acquisendo almeno 8 Segnalini uguali a scelta tra Popolo, Libro e Mortadella, e tenendo a 0 i gli altri due simboli.
+
+Variante per 2 giocatori:: Togliere dalle carte Ruolo il Maestro dei Locandieri e il Brigante.
+Alle condizioni di vittoria di ciascun giocatore ne va aggiunta una: il giocatore vince se indovina il ruolo di un altro giocatore. Se non lo indovina scarta tutti i Segnalini, la carta Ruolo viene eliminata dalla partita e il giocatore pesca una nuova carta Ruolo e ricomincia la partita passando il turno.
+
+
+[quote]
+Il Trono di Mortadella ©2016 Cosplayou
+
+Ideazione, sviluppo, design, illustrazioni, packaging, logo e nome “Trono di Mortadella” sono tutti copyright o marchi registrati. Tutti i diritti riservati.
+
+Ideato da *Linus Games*. Progetto di Carlo Ferrari, sviluppo di Carlo Ferrari, Helios Pu e Diego Ruggeri. Si ringraziano i playtesters: Dolma Fronterrè, Marco Facchini, Rita Traversi, Maurizio Stagni.
+Si ringrazia inoltre l’Associazione culturale Felsina Factory per il supporto e la consulenza.
+
+.CONTATTI
+
+http://www.iltronodimortadella.com
+[cols="^1,^1,^1"]
+|===
+| image:imgs/cpu.png[] | image:imgs/lg.svg[] | image:imgs/ffc.svg[] 
+| http://www.cosplayou.com | http://www.linusgames.com |  http://www.felsinafactory.it
+|===
+
+
+
+
+
 
