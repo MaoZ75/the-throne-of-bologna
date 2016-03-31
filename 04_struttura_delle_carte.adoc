@@ -1,4 +1,4 @@
-== STRUTTURA DELLE CARTE
+=== STRUTTURA DELLE CARTE
 
 
 |===
@@ -12,7 +12,7 @@
 
 
 
-== RUOLI
+=== RUOLI
 
 Principe dei Tortellini:: È dedito ai piaceri della carne (in tutti i sensi) e ha fatto completamente sua la frase: “di doman non c’è certezza...” Ha sudditi e possedimenti ma non se ne preoccupa minimamente, l’unica cosa che gli preme è poter fare i suoi cinque pasti al giorno in santa pace. O guerra.
 
