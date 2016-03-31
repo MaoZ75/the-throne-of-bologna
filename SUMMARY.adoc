@@ -3,4 +3,5 @@
 . link:README.adoc[Panoramica]
 . link:01_introduzione.adoc[Introduzione]
 . link:scopo_gioco.adoc[Scopo del Gioco]
+. Segnalini
 
