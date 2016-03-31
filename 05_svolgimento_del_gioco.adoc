@@ -1,2 +1,29 @@
-= Svolgimento del gioco
+== SVOLGIMENTO DELLA PARTITA
+
+La partita si svolge a turni singoli che procedono in senso orario. Per determinare chi inizia ciascun giocatore lancia i cinque dadi: chi totalizza la somma più alta di Mortadelle e Vino sarà il primo a giocare.
+
+[quote]
+Le regole che seguono riguardano gruppi da 3 a 5 giocatori. Per 2, 6 o 7 giocatori vedere il capitolo “Varianti di gioco” alla fine del regolamento.
+
+
+FASE 1 (_primo turno, primo giocatore_):: Il primo giocatore tira i cinque dadi e ne sceglie tre.
+FASE 2:: Si attivano gli effetti dei tre dadi scelti, uno per volta, nell’ordine stabilito dal giocatore.
+FASE 3:: I due dadi rimasti passano al giocatore alla sua sinistra.
+FASE 1 _(turni successivi)_:: Il nuovo giocatore inizia la sua FASE 1 con i due risultati scartati dal giocatore precedente. Se sono di suo gradimento può decidere di tenerli entrambi e tirare solo gli altri tre dadi (scegliendo a questo punto un solo risultato da aggiungere) se invece fanno proprio schifo può rifiutarli e tirare tutti e cinque i dadi, continuando la partita come descritto sopra.
+
+<<<
+
+.EFFETTI DEI DADI
+[cols="1,6"]
+|===
+| image:imgs/paesano.png[] | 1 *Popolo* = acquisisci 1 Segnalino Popolo. + 
+2 *Popoli* = acquisisci 2 Segnalini Popolo, oppure usali per fare la Rivoluzione: fai scartare 1 Segnalino Torre o 1 Segnalino Libro a un giocatore a tua scelta.
+| image:imgs/torre.png[] | 1 *Torre* = acquisisci 1 Segnalino Torre.
+| image:imgs/libro.png[] | 1 *Libro* = acquisisci 1 Segnalino Libro oppure usalo come Jolly: converti il Segnalino Libro in qualsiasi altro simbolo a tua scelta.
+| image:imgs/mortadella.png[] | 1 *Mortadella* = acquisisci 1 Segnalino Mortadella.
+| image:imgs/vino.png[] | 1 *Vino* = Ebbrezza: fa scartare 1 Segnalino Popolo a un giocatore a tua scelta. Il giocatore può annullare l’effetto scartando 1 Segnalino Mortadella.  +
+2 *Vini* = Ubriacatura: fa saltare il prossimo turno a un giocatore a scelta, che prende il Segnalino Salta Turno come promemoria. Il giocatore può annullare l’effetto scartando 2 Segnalini Mortadella.
+| image:imgs/topo.png[] | 1 *Ratto* = Peste: tutti i giocatori scartano 1 Segnalino Popolo. Ciascun giocatore può evitare di scartare il Segnalino Popolo scartando 1 Segnalino Torre. + 
+2 *Ratti* = Peste nera: tutti i giocatori scartano 1 Segnalino Popolo e 1 Segnalino Mortadella.  Rimane valida la regola che si può evitare di scartare 1 Segnalino Popolo scartando 1 Segnalino Torre.
+|===
 
