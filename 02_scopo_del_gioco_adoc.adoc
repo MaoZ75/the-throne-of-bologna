@@ -1,4 +1,4 @@
-= Scopo del Gioco
+== Scopo del Gioco
 
 
 Ogni giocatore riveste un ruolo nella Bologna fantastica de “Il Trono di Mortadella”: per decidere qual è questo ruolo ciascun giocatore pesca una carta Ruolo, che non dovrà mostrare mai agli altri per nessun motivo fino alla fine della partita. Attraverso i dadi, turno dopo turno, i giocatori accumuleranno beni e risorse oppure scateneranno effetti devastanti sui propri avversari (o anche su se stessi!): tutta la strategia di gioco dipende dal proprio ruolo e dalla propria esperienza!
