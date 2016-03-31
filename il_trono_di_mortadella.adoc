@@ -28,9 +28,9 @@ I Segnalini sono gettoni nei quali sono rappresentati i Simboli sotto descritti.
 | image:imgs/topo.png[] | Ratto | indica malattie e catastrofi che possono scatenarsi
 |===
 
-.STRUTTURA DELLE CARTE
+== STRUTTURA DELLE CARTE
 
-image::imgs/rettore.png[] 
+image:imgs/rettore.png[] 
 
 Ogni carta è composta da 
 
