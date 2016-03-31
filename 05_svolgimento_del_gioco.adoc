@@ -15,7 +15,7 @@ FASE 1 _(turni successivi)_:: Il nuovo giocatore inizia la sua FASE 1 con i due 
 <<<
 
 .EFFETTI DEI DADI
-[cols="1,6"]
+[cols="1,5"]
 |===
 | image:imgs/paesano.png[] | 1 *Popolo* = acquisisci 1 Segnalino Popolo. + 
 2 *Popoli* = acquisisci 2 Segnalini Popolo, oppure usali per fare la Rivoluzione: fai scartare 1 Segnalino Torre o 1 Segnalino Libro a un giocatore a tua scelta.
