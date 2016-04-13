@@ -9,5 +9,5 @@
 * Regole aggiuntive
 * Condizioni di vittoria
 * Varianti al gioco base
-* Contatti
+* [Contatti](09_contatti.adoc)
 
