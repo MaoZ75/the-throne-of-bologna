@@ -6,7 +6,7 @@
 * [Descrizione del Materiale](03_descrizione_materiale.adoc)
 * [Struttura delle carte](04_struttura_delle_carte.adoc)
 * [Svolgimento del gioco](05_svolgimento_del_gioco.adoc)
-* Regole aggiuntive
+* [Regole aggiuntive](07_condizioni_di_vittoria.adoc)
 * Condizioni di vittoria
 * Varianti al gioco base
 * [Contatti](09_contatti.adoc)
