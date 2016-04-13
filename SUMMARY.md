@@ -7,4 +7,5 @@
 * Struttura delle carte
 * Svolgimento del gioco
 * Regole aggiuntive
+* Condizioni di vittoria
 
