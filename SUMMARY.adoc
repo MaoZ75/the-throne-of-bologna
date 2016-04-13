@@ -1,6 +1,5 @@
-= Summary
+= Sommario
 
-un inizio
 
 . link:README.adoc[Panoramica]
 . link:01_introduzione.adoc[Introduzione]
