@@ -9,4 +9,5 @@
 * Regole aggiuntive
 * Condizioni di vittoria
 * Varianti al gioco base
+* Contatti
 
