@@ -8,6 +8,6 @@
 * [Svolgimento del gioco](05_svolgimento_del_gioco.adoc)
 * [Regole aggiuntive](07_condizioni_di_vittoria.adoc)
 * [Condizioni di vittoria](07_condizioni_di_vittoria.adoc)
-* Varianti al gioco base
+* [Varianti al gioco base](08_varianti_al_gioco_base.adoc)
 * [Contatti](09_contatti.adoc)
 
