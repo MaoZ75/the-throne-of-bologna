@@ -6,4 +6,5 @@
 * [Descrizione del Materiale](03_descrizione_materiale.adoc)
 * Struttura delle carte
 * Svolgimento del gioco
+* Regole aggiuntive
 
