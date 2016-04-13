@@ -1,5 +1,5 @@
 # Summary
 
 * Introduzione
-* Scopo del gioco
+* [Scopo del gioco](01_introduzione.adoc)
 
