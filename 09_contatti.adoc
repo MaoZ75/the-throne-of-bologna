@@ -1,12 +1,14 @@
 
-== Il Trono di Mortadella ©2016 Cosplayou
+== The Throne of Bologna ©2016 Cosplayou
 
-Ideazione, sviluppo, design, illustrazioni, packaging, logo e nome “Trono di Mortadella” sono tutti copyright o marchi registrati. Tutti i diritti riservati.
+Concept, design, development, artwork, packaging, logo and the name “The Throne of Bologna” are all copyright or trademarks. All rights reserved.
 
-Ideato da *Linus Games*. Progetto di Carlo Ferrari, sviluppo di Carlo Ferrari, Helios Pu e Diego Ruggeri. Si ringraziano i playtesters: Dolma Fronterrè, Marco Facchini, Rita Traversi, Maurizio Stagni.
-Si ringrazia inoltre l’Associazione culturale Felsina Factory per il supporto e la consulenza.
 
-.CONTATTI
+
+
+A game by *Linus Games*. Game design by Carlo Ferrari, development by Carlo Ferrari, Helios Pu and Diego Ruggeri. Special thanks to our playtesters, Dolma Fronterrè, Marco Facchini, Rita Traversi, Maurizio Stagni, and to the Felsina Factory Cultural Association for their support and advice. Created with the patronage of the Most Ancient and Noble Lombard Military Company of Bologna.
+
+.CONTACT US
 
 http://www.iltronodimortadella.com
 [cols="^1,^1,^1"]
