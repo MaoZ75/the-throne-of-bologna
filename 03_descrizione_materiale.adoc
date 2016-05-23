@@ -1,10 +1,11 @@
 
 
-== DESCRIZIONE MATERIALE
+== GAME CONTENTS
+7 Role Cards, 5 Dice, 1 Lombard Company Token, 3 Skip Turn Tokens, 24 Bologna Tokens, 24 Book tokens, 24 Tower Tokens, 24 People Tokens.
 
-=== Segnalini 
+=== TOKENS
 
-I Segnalini sono gettoni nei quali sono rappresentati i Simboli sotto descritti. All’inizio della partita si trovano tutti al centro del tavolo (riserva). Durante la partita i Segnalini potranno essere acquisiti dai giocatori per finire nel conto delle condizioni di vittoria, oppure scartati (o fatti scartare). In questo caso i Segnalini in questione torneranno nella riserva al centro del tavolo.
+The game tokens show the Symbols described on the table below. When the game begins, all tokens are placed at the center of the table in a pool. During the game, players can gain tokens to include them in their final victory score, discard them or force their foes to discard them. A discarded token is returned to the pool at the center of the table.
 
 .SIMBOLI (su dadi, carte e segnalini)
 [cols="1,1,5"]
