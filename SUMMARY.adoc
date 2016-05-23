@@ -9,4 +9,5 @@
 . link:07_condizioni_di_vittoria.adoc[Condizioni di vittoria]
 . link:08_varianti_al_gioco_base.adoc[Varianti al gioco base]
 . link:09_contatti.adoc[Contatti]
+. GAME GOALS
 
