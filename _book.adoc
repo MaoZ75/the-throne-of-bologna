@@ -1,12 +1,11 @@
 
-= Il Trono di Mortadella
+= The Throne of Bologna
 Linus Games <infoATlinusgames.com>
 v1.0, 160412
 
 :doctype: book
-:description: GIOCO DI DADI E STRATEGIA NELLA BOLOGNA MEDIEVALE
 :keywords: Boardgame, Dice, Bologna
-:lang: it
+:lang: en
 :pdf-page-size: A4
 :toc: left
 :toclevels: 4
