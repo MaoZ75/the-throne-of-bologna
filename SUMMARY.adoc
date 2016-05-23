@@ -5,7 +5,7 @@
 . link:02_scopo_del_gioco.adoc[GAME GOALS]
 . link:03_descrizione_materiale.adoc[GAME CONTENTS]
 . link:04_struttura_delle_carte.adoc[ANATOMY OF A CARD]
-. link:05_svolgimento_del_gioco.adoc[Svolgimento del gioco]
+. link:05_svolgimento_del_gioco.adoc[PLAYING THE GAME]
 . link:06_regole_aggiuntive.adoc[ADDITIONAL RULES]
 . link:07_condizioni_di_vittoria.adoc[Condizioni di vittoria]
 . link:08_varianti_al_gioco_base.adoc[Varianti al gioco base]
