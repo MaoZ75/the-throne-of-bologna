@@ -1,33 +1,33 @@
 
-=== STRUTTURA DELLE CARTE
+=== ANATOMY OF A CARD
 
 
 |===
-| image:imgs/rettore.png[]  | Ogni carta è composta da: +
+| image:imgs/rettore.png[]  | Every card is composed by: +
 
-- Illustrazione con Ruolo +
-- Condizioni di vittoria specifiche del Ruolo (Icone nella parte bassa)
+- Role figure +
+- Victory conditions of the specified role
 
 |===
 
 
 
 
-=== RUOLI
+=== ROLES
 
-Principe dei Tortellini:: È dedito ai piaceri della carne (in tutti i sensi) e ha fatto completamente sua la frase: “di doman non c’è certezza...” Ha sudditi e possedimenti ma non se ne preoccupa minimamente, l’unica cosa che gli preme è poter fare i suoi cinque pasti al giorno in santa pace. O guerra.
+Prince of Tortellini:: He pursues the joys of the flesh (in more than one sense) and he lives by the “seize the day” creed. He rules over many subjects and lands, but he does not care about them. He only cares about enjoying his five meals per day in peace…  Or at war.
 
-Magnifico Rettore:: Uomo di indiscusso rigore morale e sconfinata sapienza, ha rifiutato i beni voluttuari per dedicarsi ad arricchire ed espandere l’Università, dando benessere agli studenti, suoi futuri sudditi. Se l’è studiata proprio bene!
+High Dean:: A man of unquestionable moral compass and an unparalleled savant. He has spurned all material pleasures, and his only goal is to expand and improve his University, so that he can ensure his students’ wellbeing... and today’s students will one day be his subjects. Talk about a long term plan!
 
-Signore della Seta:: Attraverso una vita votata al lavoro è diventato il mercante più potente della città ed è l’unico a conoscere i segreti della produzione industriale della seta all’interno dei mulini disseminati lungo la fitta rete di canali.
+Lord of the Silk:: A lifetime of hard work has allowed him to become the most powerful merchant in the city. He is also the only one to know the secret of mass production of silk in his mills, which are disseminated along many channels. ***
 
-Capitano di Ventura:: È un condottiero che guida compagnie di spietati mercenari pronti a uccidere e farsi uccidere per il miglior offerente. Saccheggi e razzie sono il pane quotidiano di questi personaggi che ad una dimora fissa preferiscono l’avventura. Contenti loro...
+Soldier of Fortune:: This warlord leads a company of ruthless mercenaries willing to kill and be killed for the highest bidder. Plunder and pillage are their bread and butter, and they prefer a lifetime of adventure to a safe shelter. We won’t argue with that.
 
-Il Cardinale:: In un’epoca di santi ed eremiti lui è invece un politico redentore di peccati non suoi. Rappresenta il potere terreno della Chiesa e non esita un secondo ad approfittare di ogni occasione per accumulare nuovi fedeli e ricchezze.
+Stern Cardinal:: In an age of saints and hermits, he is a politician, always ready to grant absolution to the other sinners. He embodies the Church’s temporal power, and he will not hesitate even for one second whenever he has the chance to claim new followers... and new riches.
 
-Maestro dei Locandieri:: *(per partite da 3 giocatori in su)* - Trama nell’ombra, conosce i segreti di tutta la città e sa che potrà arrivare al potere solo sfruttando le sue conoscenze e ricattando i personaggi più illustri. La sua locanda ne ha viste davvero di tutti i colori!
-Ha una condizione di vittoria più complessa rispetto agli altri giocatori.
+Master Innkeeper (in a 3+ players game):: He lurks in the shadows and he knows the secrets of every citizen. He realizes he can claim the power only through his seedy knowledge, blackmailing the powerful. The walls in his inn have witnessed many incredible scenes.
+The master Innkeeper’s victory condition is more elaborated than the other players’.
 
-Brigante:: *(solo per la partita a 7)* - Sembra sempre solo ma è al centro di una fitta rete di malviventi che lo informa e lo aiuta. Sembra il più cattivo ma non è peggiore degli altri, anzi, spesso è stato beccato mentre faceva beneficienza ai più poveri!
-È l’unico ruolo di cui si scopre l’identità al primo tiro di dado.
+Brigand (only in  a 7 player game):: Although he acts like a lone wolf, he sits at the center of a thick web of thugs who keep informed and assist him in his devious plans. He may look nasty, but actually he is no worse than the others. Indeed, from time to time he has handed out a few coins to the poor!
+This is the only role whose identity is revealed with the fist die roll.
 
