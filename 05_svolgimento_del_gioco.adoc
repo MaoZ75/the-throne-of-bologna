@@ -1,30 +1,29 @@
 
-== SVOLGIMENTO DEL GIOCO
+== PLAYING THE GAME
 
-La partita si svolge a turni singoli che procedono in senso orario. Per determinare chi inizia ciascun giocatore lancia i cinque dadi: chi totalizza la somma più alta di Mortadelle e Vino sarà il primo a giocare.
+The following rules refer to a 3-5 players game. For a 2, 6, or 7 players game, see the Game Variants section at the end of the rulebook.
 
-[quote]
-Le regole che seguono riguardano gruppi da 3 a 5 giocatori. Per 2, 6 o 7 giocatori vedere il capitolo “Varianti di gioco” alla fine del regolamento.
+The game is played in turns. To decide who goes first, every player rolls five dice: The one who obtains the highest total of Bologna and Wine goes first. Then the game proceeds clockwise.
 
+PHASE 1:: The first player rolls five dice and chooses three results.
+PHASE 2:: The effects of the three chosen results are activated, one at a time. The player who rolled the dice decides in which order the results are activated.
+PHASE 3:: The two remaining dice are passed to the next player.
 
-FASE 1 (_primo turno, primo giocatore_):: Il primo giocatore tira i cinque dadi e ne sceglie tre.
-FASE 2:: Si attivano gli effetti dei tre dadi scelti, uno per volta, nell’ordine stabilito dal giocatore.
-FASE 3:: I due dadi rimasti passano al giocatore alla sua sinistra.
-FASE 1 _(turni successivi)_:: Il nuovo giocatore inizia la sua FASE 1 con i due risultati scartati dal giocatore precedente. Se sono di suo gradimento può decidere di tenerli entrambi e tirare solo gli altri tre dadi (scegliendo a questo punto un solo risultato da aggiungere) se invece fanno proprio schifo può rifiutarli e tirare tutti e cinque i dadi, continuando la partita come descritto sopra.
+The next player begins his PHASE 1 with the two results left from the previous player. If he likes them, he can decide to keep them both and just roll the other three dice (in this case, he will only choose one additional result). If he has no use for them, he can reject them and roll all five dice. The game then proceeds as described above.
 
 <<<
 
 .EFFETTI DEI DADI
 [cols="1,5"]
 |===
-| image:imgs/paesano.png[] | 1 *Popolo* = acquisisci 1 Segnalino Popolo. + 
-2 *Popoli* = acquisisci 2 Segnalini Popolo, oppure usali per fare la Rivoluzione: fai scartare 1 Segnalino Torre o 1 Segnalino Libro a un giocatore a tua scelta.
-| image:imgs/torre.png[] | 1 *Torre* = acquisisci 1 Segnalino Torre.
-| image:imgs/libro.png[] | 1 *Libro* = acquisisci 1 Segnalino Libro oppure usalo come Jolly: converti il Segnalino Libro in qualsiasi altro simbolo a tua scelta.
-| image:imgs/mortadella.png[] | 1 *Mortadella* = acquisisci 1 Segnalino Mortadella.
-| image:imgs/vino.png[] | 1 *Vino* = Ebbrezza: fa scartare 1 Segnalino Popolo a un giocatore a tua scelta. Il giocatore può annullare l’effetto scartando 1 Segnalino Mortadella.  +
-2 *Vini* = Ubriacatura: fa saltare il prossimo turno a un giocatore a scelta, che prende il Segnalino Salta Turno come promemoria. Il giocatore può annullare l’effetto scartando 2 Segnalini Mortadella.
-| image:imgs/topo.png[] | 1 *Ratto* = Peste: tutti i giocatori scartano 1 Segnalino Popolo. Ciascun giocatore può evitare di scartare il Segnalino Popolo scartando 1 Segnalino Torre. + 
-2 *Ratti* = Peste nera: tutti i giocatori scartano 1 Segnalino Popolo e 1 Segnalino Mortadella.  Rimane valida la regola che si può evitare di scartare 1 Segnalino Popolo scartando 1 Segnalino Torre.
+| image:imgs/paesano.png[] | 1 People = Gain 1 People Token +
+2 People = Gain 2 People Tokens, or use them to start a Revolution: Force one player of your choice to discard 1 Tower Token or 1 Book Token.
+| image:imgs/torre.png[] | 1 Tower = Gain 1 Tower Token.
+| image:imgs/libro.png[] | 1 Book = Gain 1 Book Token, or use it as a Wild Token: You can turn the Book Token into any other symbol of your choice.
+| image:imgs/mortadella.png[] | 1 Bologna = Gain 1 Bologna Token.
+| image:imgs/vino.png[] | 1 Wine = Inebriation: One player of your choice must discard 1 People Token. That player can cancel this effect by discarding 1 Bologna Tokens. +
+2 Wines = Drunkenness: One player of your choice must skip his next turn, taking the Skip Turn Token as a reminder. That player can cancel this effect by discarding 2 Bologna Tokens. 
+| image:imgs/topo.png[] | 1 Rat = Disease: All players must discard 1 People Token. A player can avoid discarding his People Token if he discards 1 Tower Token instead. +
+2 Rats = Black Plague: All players must discard 1 People Token and 1 Bologna Token. Again, a player can avoid discarding his People Token if he discards 1 Tower Token.
 |===
 
