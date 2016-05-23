@@ -2,6 +2,7 @@
 
 . link:README.adoc[SUMMARY]
 . link:01_introduzione.adoc[Overview]
+. GAME GOALS
 . link:03_descrizione_materiale.adoc[GAME CONTENTS]
 . link:04_struttura_delle_carte.adoc[ANATOMY OF A CARD]
 . link:05_svolgimento_del_gioco.adoc[Svolgimento del gioco]
@@ -9,5 +10,4 @@
 . link:07_condizioni_di_vittoria.adoc[Condizioni di vittoria]
 . link:08_varianti_al_gioco_base.adoc[Varianti al gioco base]
 . link:09_contatti.adoc[Contatti]
-. GAME GOALS
 
