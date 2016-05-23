@@ -1,7 +1,7 @@
 
 === ANATOMY OF A CARD
 
-[cols="^1,<1"]
+[cols="1>,<1"]
 |===
 | image:imgs/rettore.png[]  | Every card is composed by: +
 
