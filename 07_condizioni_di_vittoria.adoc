@@ -17,7 +17,7 @@ A player wins the game when the following victory conditions are fulfilled durin
 
 |===
 
-.Notes:: +
+Notes::
 1. A number followed by a “+” means that you must have AT LEAST that number of Tokens.
 2. A simple number without mathematic symbols means that you must have THAT EXACT NUMBER of Tokens to fulfill your victory conditions. This also applies to Zero.
 
