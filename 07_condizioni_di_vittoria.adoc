@@ -1,19 +1,20 @@
 
-== CONDIZIONI DI VITTORIA
+== VICTORY CONDITIONS
+A player wins the game when the following victory conditions are fulfilled during his turn.
 
-Un giocatore vince quando si verificano le condizioni di vittoria durante il suo turno.
 
 .Obiettivi personaggi 
 [cols="2,1,1,1,1,9"]
 |===
-| | Popolo | Torre | Libro | Mortadella | Note
-| Principe dei Tortellini|2+|2+|2+|5+|-
-| Magnifico Rettore|4+|2+|5+|-|-
-| Signore della Seta|4+|6+|-|0|-
-| Capitano di Ventura|5+|-|0|4+|-
-| Cardinale Austero|2+|4+|4+|2+|-
-| Maestro dei Locandieri|2+|2|2+|2| Con la combinazione indicata, vince se indovina il ruolo di un giocatore avversario. Se sbaglia esce dal gioco
-| Brigante|0/8+*|-|0/8+*|0/8+*|Un simbolo almeno a quota 8 e gli altri due a 0
+| People | Tower | Book | Bologna | Notes
+| Prince of Tortellini|2+|2+|2+|5+|-
+| High Dean |4+|2+|5+|-|-
+| Lord of the Silk |4+|6+|-|0|-
+| Soldier of Fortune |5+|-|0|4+|-
+| Stern Cardinal |2+|4+|4+|2+|-
+| Master Innkeeper |2+|2|2+|2| You win if you guess the role of an opponent.
+| Brigand |0/8+*|-|0/8+*|0/8+*| You must collect 8 Tokens of one type and have 0 Tokens of the other types
+
 |===
 
 Nota::
