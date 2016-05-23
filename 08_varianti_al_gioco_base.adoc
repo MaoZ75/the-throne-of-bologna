@@ -1,17 +1,20 @@
 
-== VARIANTI AL GIOCO BASE
+== GAME VARIANTS
 
-Variante per 6 giocatori::
-In una partita a 6 tutti i giocatori partono con 1 Segnalino Popolo e 1 Segnalino Mortadella.
+6 Player Variant::
+In a 6 player game, all players start with 1 People Token and 1 Bologna Token.
 
-Variante per 7 giocatori::
-In una partita a 7 tutti i giocatori partono con 2 Segnalini Popolo e 1 Segnalino a loro scelta. Entra inoltre il ruolo speciale del Brigante, che gioca con la carta ruolo scoperta.
+7 Player Variant::
+In a 7-player game, all players start with 2 People Tokens and 1 Token of their choice. The Brigand special role is also added. The Brigand player will keep his role card face-up.
 
-Brigante::
-Il Brigante tira i dadi normalmente ma i simboli di Popolo, Torre, Libro e Mortadella anziché acquisirli dalla riserva al centro del tavolo li ruba agli altri giocatori. +
-Inoltre il Brigante non è soggetto alla limitazione dei 7 vizi capitali e non può essere il bersaglio del Maestro dei Locandieri. + 
-*Condizioni di vittoria*: Il Brigante vince acquisendo almeno 8 Segnalini uguali a scelta tra Popolo, Libro e Mortadella, e tenendo a 0 i gli altri due simboli.
+Brigand::
+The Brigand rolls his dice as usual, but rather than acquiring his People, Tower, Book and Bologna Tokens from the central pool, he will steal them from the other players.
+In addition, the Brigand is unaffected by the 7 deadly sins limitation, and he cannot be targeted by the Master Innkeeper.
 
-Variante per 2 giocatori:: Togliere dalle carte Ruolo il Maestro dei Locandieri e il Brigante.
-Alle condizioni di vittoria di ciascun giocatore ne va aggiunta una: il giocatore vince se indovina il ruolo di un altro giocatore. Se non lo indovina scarta tutti i Segnalini, la carta Ruolo viene eliminata dalla partita e il giocatore pesca una nuova carta Ruolo e ricomincia la partita passando il turno.
+Victory Conditions::
+The Brigand wins as soon as he acquires 8 Tokens of the same type, choosing among People, Book and Bologna; however, he must have 0 Tokens of the remaining Token types.
+
+2 Player Variant::
+Remove the Master Innkeeper and the Brigand from the Role deck.
+The following condition must be added to the victory conditions of each player: A player wins if he correctly guesses the role of another player. If his guess is wrong, though, he must discard all his Tokens, and his Role card is removed from the game. Then the player draws a new Role card, his turn ends and the game continues.
 
