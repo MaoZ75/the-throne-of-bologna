@@ -7,14 +7,14 @@
 
 The game tokens show the Symbols described on the table below. When the game begins, all tokens are placed at the center of the table in a pool. During the game, players can gain tokens to include them in their final victory score, discard them or force their foes to discard them. A discarded token is returned to the pool at the center of the table.
 
-.SIMBOLI (su dadi, carte e segnalini)
+.SYMBOLS (on dice, cards and markers)
 [cols="1,1,5"]
 |===
-| image:imgs/paesano.png[] | Popolo | indica gli abitanti della città, come artigiani, commercianti e soldati 
-| image:imgs/torre.png[] | Torre | indica i possedimenti come case, palazzi, mulini, torri e castelli
-| image:imgs/libro.png[] | Libro | indica la conoscenza, la cultura, il sapere accademico e la capacità oratoria
-| image:imgs/mortadella.png[] | Mortadella | indica il cibo, le dispense piene e il gusto per la bella vita
-| image:imgs/vino.png[] | Vino | indica il vino e l’ebbrezza portata dal consumo sconsiderato dell’alcol
-| image:imgs/topo.png[] | Ratto | indica malattie e catastrofi che possono scatenarsi
+| image:imgs/paesano.png[] | People | Bologna’s citizens: crafters, traders and soldiers. 
+| image:imgs/torre.png[] | Tower | Buildings such as mansions, mills, towers and castles
+| image:imgs/libro.png[] | Book | Knowledge, culture, lore and oratory skills.
+| image:imgs/mortadella.png[] | Bologna | Food, filled larders and other earthy pleasures.
+| image:imgs/vino.png[] | Wine | Wine and the intoxication induced by an excessive use of spirits.
+| image:imgs/topo.png[] | Rat | Diseases and other plagues that might befall the city.
 |===
 
