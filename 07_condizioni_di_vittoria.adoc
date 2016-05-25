@@ -1,5 +1,6 @@
 
 == VICTORY CONDITIONS
+
 A player wins the game when the following victory conditions are fulfilled during his turn.
 
 

@@ -1,3 +1,4 @@
+
 = Summary
 
 . link:README.adoc[SUMMARY]
@@ -10,4 +11,5 @@
 . link:07_condizioni_di_vittoria.adoc[VICTORY CONDITIONS]
 . link:08_varianti_al_gioco_base.adoc[GAME VARIANTS]
 . link:09_contatti.adoc[CONTACTS]
+
 

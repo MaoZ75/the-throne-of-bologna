@@ -2,7 +2,7 @@
 == ADDITIONAL RULES
 The following rules are actual parts of the game, but we recommend you play the game once or twice before including them in your games.
 
-=== Lombard Company Token
+=== Deus Ex Machina Token
 When you have this Token, you can use it after rolling the dice (either 3 or 5 dice) to reroll that same number of dice. This Token is given to the last player in the first round of the game.
 After you use it, you will pass the Token to the player at your right, unless you have used it to force an opponent to reroll his own dice; in that case, he gets the Token.
 

@@ -1,6 +1,7 @@
 
 
 == GAME CONTENTS
+
 7 Role Cards, 5 Dice, 1 Lombard Company Token, 3 Skip Turn Tokens, 24 Bologna Tokens, 24 Book tokens, 24 Tower Tokens, 24 People Tokens.
 
 === TOKENS
@@ -17,4 +18,5 @@ The game tokens show the Symbols described on the table below. When the game beg
 | image:imgs/vino.png[] | Wine | Wine and the intoxication induced by an excessive use of spirits.
 | image:imgs/topo.png[] | Rat | Diseases and other plagues that might befall the city.
 |===
+
 
