@@ -1,0 +1,15 @@
+
+= Summary
+
+. link:README.adoc[SUMMARY]
+. link:01_introduzione.adoc[OVERVIEW]
+. link:02_scopo_del_gioco.adoc[GAME GOALS]
+. link:03_descrizione_materiale.adoc[GAME CONTENTS]
+. link:04_struttura_delle_carte.adoc[ANATOMY OF A CARD]
+. link:05_svolgimento_del_gioco.adoc[PLAYING THE GAME]
+. link:06_regole_aggiuntive.adoc[ADDITIONAL RULES]
+. link:07_condizioni_di_vittoria.adoc[VICTORY CONDITIONS]
+. link:08_varianti_al_gioco_base.adoc[GAME VARIANTS]
+. link:09_contatti.adoc[CONTACTS]
+
+

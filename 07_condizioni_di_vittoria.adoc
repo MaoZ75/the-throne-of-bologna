@@ -1,0 +1,28 @@
+
+== VICTORY CONDITIONS
+
+A player wins the game when the following victory conditions are fulfilled during his turn.
+
+
+.Obiettivi personaggi 
+[cols="2,1,1,1,1,9"]
+|===
+| People | Tower | Book | Bologna | Notes
+| Prince of Tortellini|2+|2+|2+|5+|-
+| High Dean |4+|2+|5+|-|-
+| Lord of the Silk |4+|6+|-|0|-
+| Soldier of Fortune |5+|-|0|4+|-
+| Stern Cardinal |2+|4+|4+|2+|-
+| Master Innkeeper |2+|2|2+|2| You win if you guess the role of an opponent.
+| Brigand |0/8+*|-|0/8+*|0/8+*| You must collect 8 Tokens of one type and have 0 Tokens of the other types
+
+|===
+
+Notes::
+1. A number followed by a “+” means that you must have AT LEAST that number of Tokens.
+2. A simple number without mathematic symbols means that you must have THAT EXACT NUMBER of Tokens to fulfill your victory conditions. This also applies to Zero.
+
+
+Master Innkeeper::
+In addition to the Tokens listed on the table, you must correctly guess the role of another player (outside the Brigand). If your guess is wrong, you lose and you must quit the game.
+ 

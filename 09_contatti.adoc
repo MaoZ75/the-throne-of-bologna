@@ -1,0 +1,25 @@
+
+== The Throne of Bologna ©2016 Cosplayou
+
+Concept, design, development, artwork, packaging, logo and the name “The Throne of Bologna” are all copyright or trademarks. All rights reserved.
+
+
+
+
+A game by *Linus Games*. Game design by Carlo Ferrari, development by Carlo Ferrari, Helios Pu and Diego Ruggeri. Special thanks to our playtesters, Dolma Fronterrè, Marco Facchini, Rita Traversi, Maurizio Stagni, and to the Felsina Factory Cultural Association for their support and advice.
+
+.CONTACT US
+
+http://www.iltronodimortadella.com
+[cols="^1,^1,^1"]
+|===
+| image:imgs/cpu.png[] | image:imgs/lg.svg[] | image:imgs/ffc.svg[] 
+| http://www.cosplayou.com | http://www.linusgames.com |  http://www.felsinafactory.it
+|===
+
+
+
+
+
+
+
